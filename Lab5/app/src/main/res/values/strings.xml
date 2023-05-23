@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Фігури</string>
+    <string name="action_color">Змінити колір</string>
+    <string name="action_figures">Інші фігури</string>
+</resources>
